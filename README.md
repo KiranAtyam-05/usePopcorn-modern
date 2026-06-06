@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # usePopcorn
 
 A small React movie discovery and watchlist tracker built with Create React App.
@@ -86,3 +87,7 @@ npm test
 ## License
 
 This project is private and for learning/demo purposes.
+=======
+# usePopcorn-modern
+Movie Wish list Application
+>>>>>>> 5d2e13f351dc873f84dc9878e1b088a089219c92
